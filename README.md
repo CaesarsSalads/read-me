@@ -27,3 +27,5 @@
 [GitHub Emojis](https://gist.github.com/rxaviers/7360908)
 
 [GitHub CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+[CLI commands](docs/cli.md)

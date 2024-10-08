@@ -1,0 +1,1 @@
+ls means list all the files and cat means read the files
