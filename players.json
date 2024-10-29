@@ -10,9 +10,9 @@
       "team": {"name": "Inter Miami", "city": "Miami", "position": "Forward", "age": 36}
     },
     {
-        "name": "Serena Williams", //string
-        "sport": "Tennis", //string
-      "team": {"name": "N/A", //string "city": "N/A", //string "position": "Player", //string "age": 41 //integer }
+        "name": "Serena Williams",
+        "sport": "Tennis",
+      "team": {"name": "N/A", "city": "N/A", "position": "Player", "age": 41}
     },
     {
         "name": "Tom Brady",
